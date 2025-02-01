@@ -10,6 +10,7 @@ int main()
         {
                 for(int j = 0;j < row;j++)
                         mat2[i][j] = mat1[j][i];
+                printf('Puji');
         }
         for(int i = 0;i < col;i++)
         {
